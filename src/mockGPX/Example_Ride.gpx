@@ -1,0 +1,3162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx creator="Harley-Davidson Ride Planner" format="3.0" version="1.1" xsi:schemaLocation="https://www.nng.com/routing/xmlschemas/gpxext/v1 https://www.nng.com/routing/xmlschemas/gpxext/v1/gpxext.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxs="https://www.nng.com/routing/xmlschemas/gpxext/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <wpt lat="43.0460500" lon="-87.9596600">
+        <name>H-D Juneau</name>
+        <cmt>H-D Juneau</cmt>
+        <desc>H-D Juneau</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>N 37th St</gpxs:roadName>
+                <gpxs:roadNameLong>N 37th St Milwaukee WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="42.5679200" lon="-88.1039600">
+        <name>Salem Shell Station</name>
+        <cmt>Salem Shell Station</cmt>
+        <desc>Salem Shell Station</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>244th Ave</gpxs:roadName>
+                <gpxs:roadNameLong>244th Ave Salem WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="42.5498400" lon="-88.5728000">
+        <name>Gordys Boat House</name>
+        <cmt>Gordys Boat House</cmt>
+        <desc>Gordys Boat House</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>Lake St</gpxs:roadName>
+                <gpxs:roadNameLong>Lake St Fontana-on-Geneva Lake WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.0640920" lon="-88.4738020">
+        <name>Wisconsin Harley-Davidson</name>
+        <cmt>Wisconsin Harley-Davidson</cmt>
+        <desc>Wisconsin Harley-Davidson</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                <gpxs:roadNameLong>Blue Ribbon Dr Oconomowoc WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.4273671" lon="-88.2239060">
+        <name>West Bend Harley-Davidson</name>
+        <cmt>West Bend Harley-Davidson</cmt>
+        <desc>West Bend Harley-Davidson</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>W Washington St</gpxs:roadName>
+                <gpxs:roadNameLong>W Washington St West Bend WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.4273700" lon="-88.2239100">
+        <name>West Bend Harley-Davidson</name>
+        <cmt>West Bend Harley-Davidson</cmt>
+        <desc>West Bend Harley-Davidson</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>W Washington St</gpxs:roadName>
+                <gpxs:roadNameLong>W Washington St West Bend WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.5208300" lon="-88.2289900">
+        <name>1265 Fond du Lac Rd</name>
+        <cmt>1265 Fond du Lac Rd</cmt>
+        <desc>1265 Fond du Lac Rd</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>Fond du Lac Rd</gpxs:roadName>
+                <gpxs:roadNameLong>Fond du Lac Rd Kewaskum WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <wpt lat="43.8054600" lon="-87.9917200">
+        <name>Elkhart Lake</name>
+        <cmt>Elkhart Lake</cmt>
+        <desc>Elkhart Lake</desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxs:ptRoad>
+                <gpxs:roadName>WI-67</gpxs:roadName>
+                <gpxs:roadNameLong>WI-67 Plymouth WI</gpxs:roadNameLong>
+            </gpxs:ptRoad>
+            <gpxx:WaypointExtension>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+    <rte>
+        <name>Example Ride         1</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="43.0460492" lon="-87.9595874">
+            <name>H-D Juneau</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N 37th St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.0460490" lon="-87.9595870">
+                    <gpxs:ptGuidanceText>Head toward W Juneau Ave on N 37th St. Go for 59 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>18.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N 37th St</gpxs:roadName>
+                        <gpxs:travellingDir>180.7899908834683</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0458900" lon="-87.9595900">
+                    <gpxs:ptGuidanceText>Turn left onto W Juneau Ave. Go for 509 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>155.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Juneau Ave</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0459000" lon="-87.9576800">
+                    <gpxs:ptGuidanceText>Turn left onto N 35th St. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>316.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N 35th St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0468018" lon="-87.9576700">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N 35th St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0473500" lon="-87.9576700">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N 35th St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0478481" lon="-87.9576621">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N 35th St</gpxs:roadName>
+                        <gpxs:travellingDir>1.1961343252427241</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0487500" lon="-87.9576600">
+                    <gpxs:ptGuidanceText>Turn left onto W Vliet St. Go for 0.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1203.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Vliet St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.0488599" lon="-87.9668401">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N Alois St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.0488200" lon="-87.9724400">
+                    <gpxs:ptGuidanceText>Turn left onto N Alois St. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>323.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Alois St</gpxs:roadName>
+                        <gpxs:travellingDir>198.83080929400833</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0479700" lon="-87.9729300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Alois St</gpxs:roadName>
+                        <gpxs:travellingDir>219.86795560283443</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0476346" lon="-87.9734749">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Alois St</gpxs:roadName>
+                        <gpxs:travellingDir>233.26262940831424</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0472825" lon="-87.9740651">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Alois St</gpxs:roadName>
+                        <gpxs:travellingDir>224.61263053624543</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0465000" lon="-87.9746100">
+                    <gpxs:ptGuidanceText>Turn left and take ramp onto WI-175 S. Go for 0.8 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>ramp-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1213.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-175</gpxs:roadName>
+                        <gpxs:travellingDir>112.83276563612816</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0459476" lon="-87.9736946">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-175</gpxs:roadName>
+                        <gpxs:travellingDir>156.32330160858055</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0414400" lon="-87.9731500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-175</gpxs:roadName>
+                        <gpxs:travellingDir>167.63309549379483</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0372400" lon="-87.9707900">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-175</gpxs:roadName>
+                        <gpxs:travellingDir>167.6322945335089</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0363300" lon="-87.9706300">
+                    <gpxs:ptGuidanceText>Continue toward Brewers Blvd. Go for 1.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1763.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>177.58533155680368</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0354305" lon="-87.9705900">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0285300" lon="-87.9692400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>175.59982700196292</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0215922" lon="-87.9704124">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>178.09666465697114</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0207100" lon="-87.9701900">
+                    <gpxs:ptGuidanceText>Continue on Miller Park Way. Go for 1.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1763.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>164.6681890065388</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0198600" lon="-87.9696400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>147.6402237240569</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0132672" lon="-87.9677797">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>181.179965030515</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0062299" lon="-87.9678892">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>180.498788340818</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0053300" lon="-87.9679100">
+                    <gpxs:ptGuidanceText>Turn right. Go for 289 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>88.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>277.30536525103224</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0055200" lon="-87.9689600">
+                    <gpxs:ptGuidanceText>Turn right. Go for 325 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>99.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0064100" lon="-87.9689500">
+                    <gpxs:ptGuidanceText>Turn right. Go for 194 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>59.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.0064045" lon="-87.9685600">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="43.0064100" lon="-87.9689500">
+                    <gpxs:ptGuidanceText>Turn right. Go for 194 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>59.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>91.2052108221161</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0064000" lon="-87.9682200">
+                    <gpxs:ptGuidanceText>Turn right. Go for 46 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>14.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0062700" lon="-87.9682200">
+                    <gpxs:ptGuidanceText>Turn right. Go for 200 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>61.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>271.3988309598959</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0062300" lon="-87.9689500">
+                    <gpxs:ptGuidanceText>Turn left. Go for 259 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>79.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>182.09403552257956</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0055200" lon="-87.9689600">
+                    <gpxs:ptGuidanceText>Turn left toward Miller Park Way. Go for 289 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>88.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>102.83888094770225</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0053300" lon="-87.9679100">
+                    <gpxs:ptGuidanceText>Turn right onto Miller Park Way. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>269.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0044200" lon="-87.9679100">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0041100" lon="-87.9679200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>181.35138410283997</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0037900" lon="-87.9679200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Miller Park Way</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0029200" lon="-87.9677600">
+                    <gpxs:ptGuidanceText>Continue on S 43rd St. Go for 1.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1533.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 43rd St</gpxs:roadName>
+                        <gpxs:travellingDir>177.1126750961414</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0020500" lon="-87.9677300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 43rd St</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9960401" lon="-87.9677600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 43rd St</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9900481" lon="-87.9678767">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 43rd St</gpxs:roadName>
+                        <gpxs:travellingDir>181.55187518664633</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9891500" lon="-87.9679100">
+                    <gpxs:ptGuidanceText>Continue on S 43rd St. Go for 1.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1698.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 43rd St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.9755731" lon="-87.9681275">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Howard Ave</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.9739000" lon="-87.9682800">
+                    <gpxs:ptGuidanceText>Turn left onto W Howard Ave. Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>810.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Howard Ave</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9739050" lon="-87.9670502">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Howard Ave</gpxs:roadName>
+                        <gpxs:travellingDir>89.43256312632383</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9739300" lon="-87.9632500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Howard Ave</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9739500" lon="-87.9595800">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Howard Ave</gpxs:roadName>
+                        <gpxs:travellingDir>91.28353748997375</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9739400" lon="-87.9583200">
+                    <gpxs:ptGuidanceText>Turn right onto S 35th St. Go for 505 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>154.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 35th St</gpxs:roadName>
+                        <gpxs:travellingDir>181.047921178086</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9725500" lon="-87.9583500">
+                    <gpxs:ptGuidanceText>Continue on W Loomis Rd (WI-36 S). Go for 1.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1752.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>212.40931315431695</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9717914" lon="-87.9590078">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>212.28940671512785</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9660400" lon="-87.9643300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>222.98334430184107</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9603100" lon="-87.9694600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>196.66682444130538</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9594800" lon="-87.9698100">
+                    <gpxs:ptGuidanceText>Continue on W Loomis Rd (WI-36 S). Go for 2.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3394.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>198.8562788724219</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9586240" lon="-87.9701876">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>198.28932020851568</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9477739" lon="-87.9828916">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>221.1920451789841</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9350321" lon="-87.9916713">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>202.07188556733672</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9342100" lon="-87.9921700">
+                    <gpxs:ptGuidanceText>Turn right. Go for 295 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>90.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.9342491" lon="-87.9922879">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.9342100" lon="-87.9921700">
+                    <gpxs:ptGuidanceText>Turn right. Go for 295 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>90.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                        <gpxs:travellingDir>294.2958692345836</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9345400" lon="-87.9931800">
+                    <gpxs:ptGuidanceText>Turn right toward Southway. Go for 272 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>83.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>21.96997044042223</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9352300" lon="-87.9928000">
+                    <gpxs:ptGuidanceText>Turn right onto Southway. Go for 305 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>93.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Southway</gpxs:roadName>
+                        <gpxs:travellingDir>112.79569236872601</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.9348900" lon="-87.9917500">
+                    <gpxs:ptGuidanceText>Turn right onto W Loomis Rd (WI-36 S). Go for 6.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>10174.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Loomis Rd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.8785573" lon="-88.0512364">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>S 124th St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.8683200" lon="-88.0718300">
+                    <gpxs:ptGuidanceText>Turn left onto S 124th St (US-45). Go for 8.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>14052.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S 124th St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.7918097" lon="-88.0710461">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N Raynor Ave</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.7421900" lon="-88.0715500">
+                    <gpxs:ptGuidanceText>Take the 1st exit from roundabout onto Washington Ave (WI-20). Go for 2.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>roundabout-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3352.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Raynor Ave</gpxs:roadName>
+                        <gpxs:travellingDir>253.73395532896848</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7420975" lon="-88.0727228">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Raynor Ave</gpxs:roadName>
+                        <gpxs:travellingDir>273.66016978823114</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7403821" lon="-88.0913318">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Raynor Ave</gpxs:roadName>
+                        <gpxs:travellingDir>240.9369265051804</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7420400" lon="-88.1096000">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Raynor Ave</gpxs:roadName>
+                        <gpxs:travellingDir>263.52640943424467</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7420200" lon="-88.1107600">
+                    <gpxs:ptGuidanceText>Take the 3rd exit from roundabout onto N Beaumont Ave (CR-S S). Go for 1.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>roundabout-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1643.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Washington Ave</gpxs:roadName>
+                        <gpxs:travellingDir>319.4094020223722</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7414896" lon="-88.1110140">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Washington Ave</gpxs:roadName>
+                        <gpxs:travellingDir>174.9634737192472</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7350115" lon="-88.1108700">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Washington Ave</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7285600" lon="-88.1108500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Washington Ave</gpxs:roadName>
+                        <gpxs:travellingDir>181.00200298271517</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7276300" lon="-88.1109800">
+                    <gpxs:ptGuidanceText>Take the 2nd exit from roundabout onto S Beaumont Ave (CR-BD S). Go for 4.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>roundabout-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>6484.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Beaumont Ave</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.7194600" lon="-88.1108200">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="42.6693800" lon="-88.1104000">
+                    <gpxs:ptGuidanceText>Continue on 248th Ave (CR-BD). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4796.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>192.53275713375007</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6685100" lon="-88.1106100">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>184.67062404312787</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6478125" lon="-88.1103323">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>179.56997716312367</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6272956" lon="-88.1127508">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>190.32186251661858</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6264100" lon="-88.1129700">
+                    <gpxs:ptGuidanceText>Continue on 252nd Ave (CR-BD). Go for 4.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>6576.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.6102795" lon="-88.1148820">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>75th St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.5682900" lon="-88.1165300">
+                    <gpxs:ptGuidanceText>Turn left onto 75th St (WI-50 E). Go for 0.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1067.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>75th St</gpxs:roadName>
+                        <gpxs:travellingDir>161.22655469296683</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5681600" lon="-88.1154426">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>75th St</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5682500" lon="-88.1101913">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>75th St</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5682786" lon="-88.1049235">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>75th St</gpxs:roadName>
+                        <gpxs:travellingDir>89.29278441148574</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5682900" lon="-88.1037100">
+                    <gpxs:ptGuidanceText>Turn right onto 244th Ave. Go for 148 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>45.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>244th Ave</gpxs:roadName>
+                        <gpxs:travellingDir>175.3218860350995</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5678900" lon="-88.1036700">
+                    <gpxs:ptGuidanceText>Turn right. Go for 72 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>22.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>244th Ave</gpxs:roadName>
+                        <gpxs:travellingDir>275.539616220271</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5679000" lon="-88.1039300">
+                    <gpxs:ptGuidanceText>Arrive at your destination on the right.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5678999" lon="-88.1039300">
+            <name>Salem Shell Station</name>
+            <sym>Waypoint</sym>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         2</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="42.5678999" lon="-88.1039300">
+            <name>Salem Shell Station</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="42.5679000" lon="-88.1039300">
+                    <gpxs:ptGuidanceText>Head west. Go for 89 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>27.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5679100" lon="-88.1042600">
+                    <gpxs:ptGuidanceText>Turn right toward 75th St/WI-50. Go for 138 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>42.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>357.8911110894476</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5682900" lon="-88.1042700">
+                    <gpxs:ptGuidanceText>Turn left onto 75th St (WI-50). Go for 16.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>26595.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>75th St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5816599" lon="-88.3064701">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions/>
+        </rtept>
+        <rtept lat="42.5968086" lon="-88.3693003">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N Edwards Blvd</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.5931300" lon="-88.4141700">
+                    <gpxs:ptGuidanceText>Turn left onto N Edwards Blvd (WI-120 S). Go for 4.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>6992.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Edwards Blvd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5455538" lon="-88.4343707">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>County Road BB</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.5455900" lon="-88.4429700">
+                    <gpxs:ptGuidanceText>Turn right onto County Road BB (CR-BB). Go for 0.8 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1334.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Road BB</gpxs:roadName>
+                        <gpxs:travellingDir>0.7537366514984569</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5465300" lon="-88.4429600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Road BB</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5515952" lon="-88.4429739">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Road BB</gpxs:roadName>
+                        <gpxs:travellingDir>359.8459607138537</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5567000" lon="-88.4429500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Road BB</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5576000" lon="-88.4429200">
+                    <gpxs:ptGuidanceText>Turn left onto CR-BB. Go for 141 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>43.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>CR-BB</gpxs:roadName>
+                        <gpxs:travellingDir>336.1565692554399</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5579200" lon="-88.4432000">
+                    <gpxs:ptGuidanceText>Turn left onto S Lakeshore Dr (CR-BB W). Go for 1.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2472.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S Lakeshore Dr</gpxs:roadName>
+                        <gpxs:travellingDir>317.3629482066034</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5575700" lon="-88.4442000">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S Lakeshore Dr</gpxs:roadName>
+                        <gpxs:travellingDir>241.49640521800748</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5531600" lon="-88.4563400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S Lakeshore Dr</gpxs:roadName>
+                        <gpxs:travellingDir>231.7180117742099</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5464369" lon="-88.4667077">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S Lakeshore Dr</gpxs:roadName>
+                        <gpxs:travellingDir>229.18085254441317</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5458500" lon="-88.4676300">
+                    <gpxs:ptGuidanceText>Continue on CR-BB. Go for 52 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>16.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>230.84058416428283</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5457600" lon="-88.4677800">
+                    <gpxs:ptGuidanceText>Continue on Linton Rd (CR-BB). Go for 3.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>5225.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5336819" lon="-88.5143282">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 67</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.5309200" lon="-88.5262300">
+                    <gpxs:ptGuidanceText>Continue on County Road B (CR-B). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4899.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.7404457031372</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5309317" lon="-88.5274466">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.7774636766031</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311900" lon="-88.5560222">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311068" lon="-88.5846134">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>271.4133741768086</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311100" lon="-88.5858300">
+                    <gpxs:ptGuidanceText>Continue on Kenosha Ave (CR-B). Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>287.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311100" lon="-88.5870462">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311100" lon="-88.5875691">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311141" lon="-88.5881041">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>272.35477522393353</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5311300" lon="-88.5893200">
+                    <gpxs:ptGuidanceText>Turn right onto State Road 67 (WI-67). Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>792.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.62303146389854</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5320303" lon="-88.5893280">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.62303146389854</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5346950" lon="-88.5893500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5373597" lon="-88.5893855">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.3191123405938</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5382600" lon="-88.5894000">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>397.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>2.34407467080581</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5391500" lon="-88.5892000">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>14.577035990996308</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5399100" lon="-88.5887000">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>34.37893716043749</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5406026" lon="-88.5878947">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>48.64052496549431</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5411200" lon="-88.5869000">
+                    <gpxs:ptGuidanceText>Continue on Valley View Dr (WI-67). Go for 0.8 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1258.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>58.73441142424116</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5415884" lon="-88.5858576">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>58.32831246566258</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5444019" lon="-88.5807181">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>31.181856254326306</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5490400" lon="-88.5797300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>2.636246419496274</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499000" lon="-88.5795500">
+                    <gpxs:ptGuidanceText>Turn right onto 3rd Ave. Go for 0.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>567.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>88.45261904584186</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499242" lon="-88.5783319">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>88.45261904584186</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499576" lon="-88.5761026">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>88.91237083039107</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5501895" lon="-88.5739144">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>81.42296461044884</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5502300" lon="-88.5727000">
+                    <gpxs:ptGuidanceText>Turn right onto Lake St. Go for 128 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>39.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                        <gpxs:travellingDir>155.11621673134982</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499130" lon="-88.5725080">
+                    <gpxs:ptGuidanceText>Arrive at Lake St. Your destination is on the right.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5499128" lon="-88.5725085">
+            <name>Gordys Boat House</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Lake St</gpxs:roadName>
+                </gpxs:ptRoad>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         3</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="42.5499128" lon="-88.5725085">
+            <name>Gordys Boat House</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Lake St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.5499130" lon="-88.5725080">
+                    <gpxs:ptGuidanceText>Head south on Lake St. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>270.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                        <gpxs:travellingDir>161.452205826301</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5490706" lon="-88.5720992">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                        <gpxs:travellingDir>158.41447076706254</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5487790" lon="-88.5719439">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                        <gpxs:travellingDir>159.3475934458238</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5484859" lon="-88.5717939">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Lake St</gpxs:roadName>
+                        <gpxs:travellingDir>159.3475934458238</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5479100" lon="-88.5725500">
+                    <gpxs:ptGuidanceText>Turn right onto S Lake Shore Dr. Go for 358 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>109.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>S Lake Shore Dr</gpxs:roadName>
+                        <gpxs:travellingDir>328.14668550271705</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5487400" lon="-88.5732500">
+                    <gpxs:ptGuidanceText>Continue on Fontana Blvd. Go for 486 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>148.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Fontana Blvd</gpxs:roadName>
+                        <gpxs:travellingDir>326.9749351150907</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5491100" lon="-88.5748200">
+                    <gpxs:ptGuidanceText>Turn right onto Reid St. Go for 315 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>96.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Reid St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499700" lon="-88.5748200">
+                    <gpxs:ptGuidanceText>Turn left onto 3rd Ave. Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>389.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>268.1037456334883</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499585" lon="-88.5760360">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>268.91237117880564</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499425" lon="-88.5771791">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>268.91237117880564</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499242" lon="-88.5783342">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>3rd Ave</gpxs:roadName>
+                        <gpxs:travellingDir>268.4526200369826</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5499000" lon="-88.5795500">
+                    <gpxs:ptGuidanceText>Turn right onto Valley View Dr (WI-67 N). Go for 0.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>527.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>18.129287290759464</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5507100" lon="-88.5789700">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>33.54482397592386</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5519905" lon="-88.5780721">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>17.310430864964474</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5534448" lon="-88.5780813">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Valley View Dr</gpxs:roadName>
+                        <gpxs:travellingDir>341.48744410678773</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5542600" lon="-88.5786000">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>674.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>329.5869910410317</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5550334" lon="-88.5792222">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>328.2135852086041</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5569900" lon="-88.5802700">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>357.9911058463416</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5591210" lon="-88.5803204">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.55104846878874</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5600200" lon="-88.5803300">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 1.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1615.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>358.68141748437023</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5609208" lon="-88.5803539">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>358.37729589759937</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5672901" lon="-88.5804300">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5736690" lon="-88.5804000">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.5745700" lon="-88.5804000">
+                    <gpxs:ptGuidanceText>Continue on County Road F S (CR-F). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4799.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.5865197" lon="-88.5801724">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 50</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.6177300" lon="-88.5800100">
+                    <gpxs:ptGuidanceText>Turn right onto State Road 50 (WI-50). Go for 2.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3645.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 50</gpxs:roadName>
+                        <gpxs:travellingDir>123.19608141973288</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6172542" lon="-88.5789774">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 50</gpxs:roadName>
+                        <gpxs:travellingDir>119.22878262343488</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6092300" lon="-88.5609900">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 50</gpxs:roadName>
+                        <gpxs:travellingDir>121.22412391900582</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6011574" lon="-88.5431514">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 50</gpxs:roadName>
+                        <gpxs:travellingDir>122.33801805401191</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6006800" lon="-88.5421200">
+                    <gpxs:ptGuidanceText>Keep left toward State Road 67/WI-67 N. Go for 364 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-slight-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>111.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>108.05841254078649</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6002400" lon="-88.5409200">
+                    <gpxs:ptGuidanceText>Turn left onto State Road 67 (WI-67 N). Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>308.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6009907" lon="-88.5407400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6014700" lon="-88.5407400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.4918964577897</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6019681" lon="-88.5407460">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.4918964577897</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6028700" lon="-88.5408100">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 1.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1814.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.25582720846586</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6037697" lon="-88.5408259">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.25582720846586</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6110304" lon="-88.5407900">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6182905" lon="-88.5409329">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.12168039062334</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6191900" lon="-88.5409600">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>807.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.8107451265242389</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6200884" lon="-88.5409427">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.8107451265242389</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6228106" lon="-88.5409237">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.578413739455</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6255417" lon="-88.5409705">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>358.9655676052677</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6264400" lon="-88.5409900">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 1.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2252.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.6370502" lon="-88.5411496">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>I-43</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.6466800" lon="-88.5412500">
+                    <gpxs:ptGuidanceText>Continue on S Lincoln St (WI-67). Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>866.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6475809" lon="-88.5412500">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6505808" lon="-88.5412741">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>359.5786015598565</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6535792" lon="-88.5412752">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>0.9159830068507517</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6544800" lon="-88.5412600">
+                    <gpxs:ptGuidanceText>Turn right and take ramp onto I-43 N toward Milwaukee. Go for 1.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>ramp-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2783.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>72.57926714130116</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6549500" lon="-88.5402900">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>46.59277250816831</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6644250" lon="-88.5312426">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>28.576666865119876</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6738920" lon="-88.5221487">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>I-43</gpxs:roadName>
+                        <gpxs:travellingDir>37.930523929940705</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6745900" lon="-88.5213800">
+                    <gpxs:ptGuidanceText>Take exit 27B toward Madison onto US-12 W. Go for 2.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>exit-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3312.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-12</gpxs:roadName>
+                        <gpxs:travellingDir>47.79934849101562</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6751400" lon="-88.5204400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-12</gpxs:roadName>
+                        <gpxs:travellingDir>71.21993412671924</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6837062" lon="-88.5281597">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-12</gpxs:roadName>
+                        <gpxs:travellingDir>334.1188091328704</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6952393" lon="-88.5387665">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-12</gpxs:roadName>
+                        <gpxs:travellingDir>321.002622058569</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6959400" lon="-88.5395300">
+                    <gpxs:ptGuidanceText>Take the exit toward WI-67 N onto US-12 W (N Wisconsin St). Go for 2.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptNextManDst>3335.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>321.845190505646</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.6966900" lon="-88.5402600">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>330.66299125886303</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7105000" lon="-88.5422100">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>358.8623013536175</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7245703" lon="-88.5426449">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>358.4557595930916</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7254700" lon="-88.5426900">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (US-12). Go for 1.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2072.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.7388275" lon="-88.5501059">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 67</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.7415500" lon="-88.5529100">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (US-12). Go for 4.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>6626.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>346.5754846054389</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7424315" lon="-88.5531436">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>353.0216039619476</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7709200" lon="-88.5551300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>3.9991209135142185</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7978509" lon="-88.5628822">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>1.037922841534055</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.7987500" lon="-88.5628600">
+                    <gpxs:ptGuidanceText>Keep left onto US Highway 12 (US-12). Go for 2.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-slight-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3334.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US Highway 12</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.7992951" lon="-88.5877402">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>County Road H</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.7993600" lon="-88.6025800">
+                    <gpxs:ptGuidanceText>Turn right onto County Road H (CR-H). Go for 2.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4307.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Road H</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.8190197" lon="-88.6016309">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Bluff Rd</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.8353600" lon="-88.6056400">
+                    <gpxs:ptGuidanceText>Turn right onto Bluff Rd. Go for 3.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>5263.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Bluff Rd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.8360442" lon="-88.5871679">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 67</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.8362000" lon="-88.5422200">
+                    <gpxs:ptGuidanceText>Turn left onto State Road 67 (WI-67). Go for 4.9 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>7930.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.8697489" lon="-88.4849108">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="42.8790400" lon="-88.4747800">
+                    <gpxs:ptGuidanceText>Turn left onto Kettle Moraine Dr (WI-67). Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>215.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                        <gpxs:travellingDir>57.120918516321126</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.8797800" lon="-88.4742200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                        <gpxs:travellingDir>20.12235885025268</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.8798541" lon="-88.4741830">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                        <gpxs:travellingDir>20.12235885025268</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.8799400" lon="-88.4741400">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                        <gpxs:travellingDir>20.12235885025268</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="42.8806900" lon="-88.4735600">
+                    <gpxs:ptGuidanceText>Turn left onto Kettle Moraine Dr (WI-67 N). Go for 10.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>16866.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="42.9102998" lon="-88.4737701">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions/>
+        </rtept>
+        <rtept lat="42.9510800" lon="-88.4785501">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N Summit Ave</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.0224700" lon="-88.4624400">
+                    <gpxs:ptGuidanceText>Continue on N Summit Ave (WI-67). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4786.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Summit Ave</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.0319399" lon="-88.4623046">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>N Summit Ave</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.0632900" lon="-88.4714300">
+                    <gpxs:ptGuidanceText>Keep left toward Blue Ribbon Dr. Go for 384 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-slight-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>117.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Summit Ave</gpxs:roadName>
+                        <gpxs:travellingDir>355.2421340599658</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0643200" lon="-88.4716400">
+                    <gpxs:ptGuidanceText>Turn left onto Blue Ribbon Dr. Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>180.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                        <gpxs:travellingDir>272.3397214256062</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0640850" lon="-88.4737980">
+                    <gpxs:ptGuidanceText>Arrive at Blue Ribbon Dr.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.0640847" lon="-88.4737975">
+            <name>Wisconsin Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                </gpxs:ptRoad>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         4</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="43.0640847" lon="-88.4737975">
+            <name>Wisconsin Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.0640850" lon="-88.4737980">
+                    <gpxs:ptGuidanceText>Head northeast on Blue Ribbon Dr. Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>180.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Blue Ribbon Dr</gpxs:roadName>
+                        <gpxs:travellingDir>64.65934143296039</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0643200" lon="-88.4716400">
+                    <gpxs:ptGuidanceText>Turn left onto WI-67 N. Go for 2.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3725.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>107.27996903206099</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0650010" lon="-88.4714200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0808253" lon="-88.4704798">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>1.173139809756492</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0943703" lon="-88.4791898">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>326.47481361075575</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0951200" lon="-88.4798700">
+                    <gpxs:ptGuidanceText>Keep right onto WI-67 N toward WI-67. Go for 4.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-slight-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>6770.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>342.4754927901436</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.0960300" lon="-88.4801800">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>350.78301998180814</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1253589" lon="-88.4797237">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>1.194593699255563</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1481959" lon="-88.4930029">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>WI-67</gpxs:roadName>
+                        <gpxs:travellingDir>279.21943458589607</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1483400" lon="-88.4942200">
+                    <gpxs:ptGuidanceText>Take the exit toward Oconomowoc/Mayville onto WI-67 N (State Road 67). Go for 1.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>exit-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2183.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.1617114" lon="-88.5008043">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="43.1651300" lon="-88.5015800">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>218.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>344.07069801435375</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1660003" lon="-88.5018991">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>345.35779534615546</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1660788" lon="-88.5019272">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>345.35779534615546</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1661572" lon="-88.5019553">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>345.35779534615546</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1670200" lon="-88.5023100">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 1.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1539.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>339.96408885742926</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1678614" lon="-88.5027444">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>338.99973073187357</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1731800" lon="-88.5065200">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>330.5363487241274</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1787816" lon="-88.5092961">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>357.2167707166821</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1796800" lon="-88.5092500">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>679.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>5.20810419945758</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1805768" lon="-88.5091379">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>5.20810419945758</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1827199" lon="-88.5088660">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>4.763630956281077</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1849000" lon="-88.5086100">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>4.8091162135863215</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.1857700" lon="-88.5085000">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 8.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>13110.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.2068914" lon="-88.5137631">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions/>
+        </rtept>
+        <rtept lat="43.2564496" lon="-88.5178176">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 60</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.3018100" lon="-88.5184500">
+                    <gpxs:ptGuidanceText>Continue on S Schuyler St (WI-67). Go for 1.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2734.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3027095" lon="-88.5184467">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>0.2589777898814418</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3141055" lon="-88.5183874">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>0.5485127838920789</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3255018" lon="-88.5183249">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>2.499252271567684</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3264000" lon="-88.5182600">
+                    <gpxs:ptGuidanceText>Turn right onto State Road 60 (WI-60). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4811.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>91.48573788706466</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3263672" lon="-88.5170309">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>91.83104438770374</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3258785" lon="-88.4886891">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>91.66115963974039</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3253529" lon="-88.4603414">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>92.53899525751888</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3253200" lon="-88.4591500">
+                    <gpxs:ptGuidanceText>Take the 3rd exit from roundabout onto County Road P (CR-P N). Go for 1.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>roundabout-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>2479.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>134.4760590892655</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3258200" lon="-88.4588100">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>350.040744920208</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3360972" lon="-88.4584490">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>1.8757644430614278</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3463503" lon="-88.4581293">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 60</gpxs:roadName>
+                        <gpxs:travellingDir>0.8945936118958002</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3472500" lon="-88.4581100">
+                    <gpxs:ptGuidanceText>Continue on County Road P (CR-P). Go for 2.6 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4251.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.78299806686414</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3481496" lon="-88.4581147">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.78299806686414</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3663800" lon="-88.4579700">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>0.3062673393807813</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3840710" lon="-88.4606970">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>2.174179069447746</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3849700" lon="-88.4606500">
+                    <gpxs:ptGuidanceText>Continue on CR-P. Go for 404 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>123.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>1.387714434917882</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3860700" lon="-88.4606200">
+                    <gpxs:ptGuidanceText>Continue on County Road P (CR-P). Go for 3.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>5278.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>1.1564401871003724</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.3869690" lon="-88.4605950">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>1.1564401871003724</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4097729" lon="-88.4598168">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>17.796178894153854</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4295230" lon="-88.4502182">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>359.83746505479445</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4304200" lon="-88.4502800">
+                    <gpxs:ptGuidanceText>Continue toward State Road 33/WI-33. Go for 121 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>37.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>19.36096656890186</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4307300" lon="-88.4501300">
+                    <gpxs:ptGuidanceText>Take the 1st exit from roundabout onto State Road 33 (WI-33). Go for 9.8 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>roundabout-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>15843.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>44.07654048095117</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4308155" lon="-88.4489373">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>93.42623645583927</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4214100" lon="-88.3560000">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>77.07618372327414</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4275000" lon="-88.2624903">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4275000" lon="-88.2612600">
+                    <gpxs:ptGuidanceText>Continue on Hwy 33 (WI-33/WI-144). Go for 2.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3194.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Hwy 33</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.4273060" lon="-88.2363248">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Washington St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.4272000" lon="-88.2220100">
+                    <gpxs:ptGuidanceText>Make a U-Turn onto W Washington St (WI-33 W/WI-144 S). Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-sharp-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>172.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>2.7718931475923796</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4273600" lon="-88.2239060">
+                    <gpxs:ptGuidanceText>Arrive at W Washington St (WI-33 W/WI-144 S).</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.4273599" lon="-88.2239062">
+            <name>West Bend Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Washington St</gpxs:roadName>
+                </gpxs:ptRoad>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         5</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="43.4273599" lon="-88.2239062">
+            <name>West Bend Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Washington St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.4273600" lon="-88.2239060">
+                    <gpxs:ptGuidanceText>Head west on W Washington St (WI-33 W/WI-144 S).</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4273600" lon="-88.2239060">
+                    <gpxs:ptGuidanceText>Arrive at W Washington St (WI-33 W/WI-144 S).</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.4273599" lon="-88.2239062">
+            <name>West Bend Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Washington St</gpxs:roadName>
+                </gpxs:ptRoad>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         6</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="43.4273599" lon="-88.2239100">
+            <name>West Bend Harley-Davidson</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>W Washington St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.4273600" lon="-88.2239100">
+                    <gpxs:ptGuidanceText>Head west on W Washington St (WI-33 W/WI-144 S). Go for 121 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>37.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4273600" lon="-88.2243600">
+                    <gpxs:ptGuidanceText>Make a U-Turn onto W Washington St (WI-33 E/WI-144 N). Go for 0.9 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-sharp-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1388.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4272130" lon="-88.2233248">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>90.53667019296779</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4272000" lon="-88.2160300">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4271324" lon="-88.2087374">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>W Washington St</gpxs:roadName>
+                        <gpxs:travellingDir>91.06599483995211</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4271100" lon="-88.2075100">
+                    <gpxs:ptGuidanceText>Turn left and take ramp onto US-45 N toward Kewaskum. Go for 6.7 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>ramp-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>10857.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-45</gpxs:roadName>
+                        <gpxs:travellingDir>357.2281027407965</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4279885" lon="-88.2077599">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-45</gpxs:roadName>
+                        <gpxs:travellingDir>347.85633544717007</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.4747070" lon="-88.2090508">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-45</gpxs:roadName>
+                        <gpxs:travellingDir>347.5456808546818</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5200972" lon="-88.2282539">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>US-45</gpxs:roadName>
+                        <gpxs:travellingDir>332.04228224934747</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5208900" lon="-88.2288390">
+                    <gpxs:ptGuidanceText>Arrive at Fond du Lac Rd (US-45). Your destination is on the left.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Fond du Lac Rd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.5208902" lon="-88.2288387">
+            <name>Kewaskum, WI 53040</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Fond du Lac Rd</gpxs:roadName>
+                </gpxs:ptRoad>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <name>Example Ride         7</name>
+        <extensions>
+            <gpxs:rteOpts>
+                <gpxs:allowFerries>true</gpxs:allowFerries>
+                <gpxs:allowHighways>true</gpxs:allowHighways>
+                <gpxs:allowTollRoads>true</gpxs:allowTollRoads>
+            </gpxs:rteOpts>
+        </extensions>
+        <rtept lat="43.5208902" lon="-88.2288387">
+            <name>Kewaskum, WI 53040</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Fond du Lac Rd</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.5208900" lon="-88.2288390">
+                    <gpxs:ptGuidanceText>Head northwest on Fond du Lac Rd (US-45). Go for 62 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>depart</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>19.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Fond du Lac Rd</gpxs:roadName>
+                        <gpxs:travellingDir>331.7824404592788</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5210400" lon="-88.2289500">
+                    <gpxs:ptGuidanceText>Turn right onto Main St (WI-28). Go for 2.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3974.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Main St</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.5211717" lon="-88.1971368">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.5182600" lon="-88.1807800">
+                    <gpxs:ptGuidanceText>Turn left onto Kettle Moraine Dr. Go for 2.6 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4191.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Kettle Moraine Dr</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.5364641" lon="-88.1807114">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>County Rd S</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.5503200" lon="-88.1857200">
+                    <gpxs:ptGuidanceText>Turn right onto County Rd S (CR-S). Go for 1.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1625.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Rd S</gpxs:roadName>
+                        <gpxs:travellingDir>35.93341987532699</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5511991" lon="-88.1855800">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Rd S</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5576061" lon="-88.1854200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Rd S</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5638661" lon="-88.1836475">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>County Rd S</gpxs:roadName>
+                        <gpxs:travellingDir>16.163818781899067</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5647000" lon="-88.1832000">
+                    <gpxs:ptGuidanceText>Turn left onto Youth Camp Rd. Go for 1.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>1910.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>279.4966460605149</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5649377" lon="-88.1843808">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>306.9714855850524</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5713598" lon="-88.1896885">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>321.23314912273986</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5773362" lon="-88.1963100">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>319.71570488605255</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5780200" lon="-88.1971100">
+                    <gpxs:ptGuidanceText>Turn left. Go for 371 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>113.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.5778800" lon="-88.1980600">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="43.5778800" lon="-88.1980600">
+                    <gpxs:ptGuidanceText>Make a U-Turn. Go for 371 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-sharp-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>113.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>180.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5780200" lon="-88.1971100">
+                    <gpxs:ptGuidanceText>Turn left onto Youth Camp Rd. Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>871.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>319.79637178676717</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5785556" lon="-88.1980901">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>297.8251355117107</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5805894" lon="-88.2010053">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>332.55352480469315</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5833076" lon="-88.2027966">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Youth Camp Rd</gpxs:roadName>
+                        <gpxs:travellingDir>334.9813661732699</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5841200" lon="-88.2033200">
+                    <gpxs:ptGuidanceText>Turn right onto CR-G. Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>172.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>CR-G</gpxs:roadName>
+                        <gpxs:travellingDir>35.918157874147994</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.5854600" lon="-88.2022600">
+                    <gpxs:ptGuidanceText>Continue on County Road G (CR-G). Go for 4.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>7114.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.6201100" lon="-88.1904001">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 67</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.6463000" lon="-88.1849300">
+                    <gpxs:ptGuidanceText>Turn right onto State Road 67 (WI-67). Go for 0.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>468.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>51.12624773479058</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6468431" lon="-88.1839394">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>52.991024727082674</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6475684" lon="-88.1826086">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>53.844289112019226</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6483063" lon="-88.1812909">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>52.60173250200887</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6488500" lon="-88.1803000">
+                    <gpxs:ptGuidanceText>Continue toward WI-67. Go for 174 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>53.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>55.35531029814911</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6491200" lon="-88.1797600">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 335 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>102.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>74.54902334169918</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.6491800" lon="-88.1785000">
+                    <gpxs:ptGuidanceText>Turn left onto State Road 67 (WI-67). Go for 4.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>7209.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.6756878" lon="-88.1745325">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>State Road 67</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.7104800" lon="-88.1807800">
+                    <gpxs:ptGuidanceText>Turn right onto State Road 67 (WI-67). Go for 3.0 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>4798.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>91.46754415157153</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7104593" lon="-88.1795371">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>91.20864941164388</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7102731" lon="-88.1517418">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>82.25108693155471</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7105193" lon="-88.1231764">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>84.61152495302389</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7107100" lon="-88.1219700">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.1 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>200.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>66.31527636498453</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7111814" lon="-88.1209197">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>49.48666693960223</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7111814" lon="-88.1209197">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>49.48666693960223</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7111814" lon="-88.1209197">
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>49.48666693960223</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7118800" lon="-88.1201500">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 2.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3805.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.7180983" lon="-88.1129365">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:rteSoftPt lat="43.7242700" lon="-88.0805400">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 6.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>10364.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.7251108" lon="-88.0179102">
+            <name>Via Point</name>
+            <sym>Waypoint</sym>
+            <extensions>
+                <gpxs:ptRoad>
+                    <gpxs:roadName>E Mill St</gpxs:roadName>
+                </gpxs:ptRoad>
+                <gpxs:rteSoftPt lat="43.7475000" lon="-87.9811700">
+                    <gpxs:ptGuidanceText>Turn right onto E Mill St (WI-67). Go for 344 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>105.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>E Mill St</gpxs:roadName>
+                        <gpxs:travellingDir>90.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7475000" lon="-87.9798700">
+                    <gpxs:ptGuidanceText>Turn left onto Caroline St (WI-67). Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>269.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Caroline St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7483996" lon="-87.9798600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Caroline St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7487100" lon="-87.9798600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Caroline St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7490204" lon="-87.9798651">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>Caroline St</gpxs:roadName>
+                        <gpxs:travellingDir>359.0027837124219</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7499200" lon="-87.9798800">
+                    <gpxs:ptGuidanceText>Turn left onto E Elizabeth St (WI-67). Go for 348 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>106.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>E Elizabeth St</gpxs:roadName>
+                        <gpxs:travellingDir>270.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7499200" lon="-87.9812000">
+                    <gpxs:ptGuidanceText>Turn right onto N Milwaukee St (WI-67). Go for 0.6 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>920.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Milwaukee St</gpxs:roadName>
+                        <gpxs:travellingDir>358.4674665115085</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7508211" lon="-87.9812200">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Milwaukee St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7540648" lon="-87.9812647">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Milwaukee St</gpxs:roadName>
+                        <gpxs:travellingDir>359.3633284128512</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7572800" lon="-87.9812600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>N Milwaukee St</gpxs:roadName>
+                        <gpxs:travellingDir>0.0</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7582100" lon="-87.9812800">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67 N). Go for 433 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>132.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>14.900926250238854</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7593900" lon="-87.9810800">
+                    <gpxs:ptGuidanceText>Continue on WI-67 N. Go for 0.3 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>519.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>1.8803137806203267</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7602900" lon="-87.9810600">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>357.41543078648886</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7617069" lon="-87.9813303">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>348.5677726334047</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7631189" lon="-87.9817311">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>348.3410271738226</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7640000" lon="-87.9819900">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67 N). Go for 2.4 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>3911.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>347.3671587089599</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7648706" lon="-87.9823040">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>344.43448614243715</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7813297" lon="-87.9815341">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>358.9912673193854</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7980301" lon="-87.9818731">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>359.684319564683</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7989300" lon="-87.9818800">
+                    <gpxs:ptGuidanceText>Continue on WI-67. Go for 0.5 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>793.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>358.3462840702503</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.7998260" lon="-87.9819726">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>351.506785596539</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8023119" lon="-87.9832048">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>329.3384069511242</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8042121" lon="-87.9857642">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>304.7142261815161</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8046500" lon="-87.9868500">
+                    <gpxs:ptGuidanceText>Continue on State Road 67 (WI-67). Go for 0.2 mi.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>straight</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>385.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>294.7908419305861</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8049887" lon="-87.9879987">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>290.70138301300636</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>post-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8052757" lon="-87.9890696">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>290.0744337137628</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>inter-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8055617" lon="-87.9901541">
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>290.0744337137628</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>pre-maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8058700" lon="-87.9913200">
+                    <gpxs:ptGuidanceText>Turn left. Go for 121 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-left</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>37.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:roadName>State Road 67</gpxs:roadName>
+                        <gpxs:travellingDir>176.06809842462644</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8055600" lon="-87.9914000">
+                    <gpxs:ptGuidanceText>Turn right. Go for 79 ft.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>turn-right</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>24.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad>
+                        <gpxs:travellingDir>276.58673104063524</gpxs:travellingDir>
+                    </gpxs:ptRoad>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+                <gpxs:rteSoftPt lat="43.8055850" lon="-87.9917000">
+                    <gpxs:ptGuidanceText>Arrive at your destination on the left.</gpxs:ptGuidanceText>
+                    <gpxs:ptManeuverType>arrive</gpxs:ptManeuverType>
+                    <gpxs:ptNextManDst>0.0</gpxs:ptNextManDst>
+                    <gpxs:ptRoad/>
+                    <gpxs:ptType>maneuver</gpxs:ptType>
+                </gpxs:rteSoftPt>
+            </extensions>
+        </rtept>
+        <rtept lat="43.8055853" lon="-87.9916999">
+            <name>Elkhart Lake</name>
+            <sym>Waypoint</sym>
+        </rtept>
+    </rte>
+</gpx>
