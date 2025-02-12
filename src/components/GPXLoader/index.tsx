@@ -3,10 +3,13 @@
 import { useState } from "react";
 import { calculateRideStats, parseGPX } from "./utils";
 import MapDisplay from "../MapDisplay";
-import { LoadScript } from "@react-google-maps/api";
+import { Libraries, LoadScript } from "@react-google-maps/api";
 import { GpxPoint } from "@/models/gpxPoint";
+import PlaceCardsList from "../PlaceCardsList";
 
 // For sample GPX files, visit https://github.com/gps-touring/sample-gpx or https://maps.harley-davidson.com/
+
+const GOOGLE_MAPS_API_LOADED_LIBRARIES: Libraries = ["places"];
 
 const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
@@ -91,8 +94,13 @@ export default function GPXLoader() {
       )}
 
       {gpsData.length > 0 && (
-        <LoadScript googleMapsApiKey={GOOGLE_MAPS_API_KEY!}>
-          <MapDisplay gpsData={gpsData} key={mapDisplayKey} />
+        <LoadScript
+          googleMapsApiKey={GOOGLE_MAPS_API_KEY!}
+          libraries={GOOGLE_MAPS_API_LOADED_LIBRARIES}
+        >
+          <MapDisplay gpsData={gpsData} key={`${mapDisplayKey}-map`} />
+
+          <PlaceCardsList gpsData={gpsData} key={`${mapDisplayKey}-places`} />
         </LoadScript>
       )}
     </div>
