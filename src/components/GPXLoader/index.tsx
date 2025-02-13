@@ -38,6 +38,7 @@ export default function GPXLoader() {
         const parsedData = parseGPX(e.target.result.toString());
 
         setMapDisplayKey((prev) => prev + 1);
+        setPlaces([]);
         setGpsData(parsedData);
         setRideStats(calculateRideStats(parsedData));
       }
@@ -95,7 +96,7 @@ export default function GPXLoader() {
           </LoadScript>
         )}
 
-        {gpsData.length > 0 && rideStats && (
+        {gpsData.length > 0 && !!rideStats && !!places.length && (
           <StoryDisplay places={places} rideStats={rideStats} />
         )}
       </section>

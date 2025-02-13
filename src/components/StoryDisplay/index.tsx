@@ -8,7 +8,7 @@ export interface StoryDisplayProps {
 
 export function StoryDisplay({ places, rideStats }: StoryDisplayProps) {
   return (
-    <div className="border border-gray-500 w-1/2 mx-auto shadow-lg rounded">
+    <div className="border border-gray-500 w-[65%] mx-auto shadow-lg rounded">
       <header className="bg-secondary-1 flex justify-center text-white my-2">
         <h2 className="font-semibold h-10 flex items-center">My Story</h2>
       </header>

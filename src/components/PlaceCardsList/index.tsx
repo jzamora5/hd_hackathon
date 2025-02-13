@@ -155,7 +155,7 @@ export default function PlaceCardsList({
   console.log("Places", places);
 
   return (
-    <section>
+    <section className="space-y-2">
       {places.map((place, idx) => {
         return <PlaceCard key={idx} place={place} />;
       })}
