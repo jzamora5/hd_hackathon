@@ -1,12 +1,7 @@
 "use client";
 
 import { GpxPoint } from "@/models/gpxPoint";
-import {
-  GoogleMap,
-  Marker,
-  Polyline,
-  InfoWindow,
-} from "@react-google-maps/api";
+import { GoogleMap, Marker, InfoWindow } from "@react-google-maps/api";
 import { useState } from "react";
 
 interface MapDisplayProps {
@@ -32,7 +27,7 @@ export default function MapDisplay({ gpsData }: MapDisplayProps) {
     <GoogleMap
       mapContainerStyle={{
         width: "100%",
-        height: gpsData.length > 0 ? "500px" : "300px",
+        height: "400px",
       }}
       zoom={12} // Initial zoom (gets overridden by `fitBounds`)
       center={gpsData.length ? gpsData[0] : defaultCenter}
@@ -44,12 +39,6 @@ export default function MapDisplay({ gpsData }: MapDisplayProps) {
         }
       }}
     >
-      {gpsData.length > 1 && (
-        <Polyline
-          path={gpsData.map((point) => ({ lat: point.lat, lng: point.lng }))}
-          options={{ strokeColor: "#4545f2a0", strokeWeight: 4 }}
-        />
-      )}
       {gpsData.map((point, index) => (
         <Marker
           key={index}

@@ -1,4 +1,4 @@
-export type PlaceInfoType = "place" | "streetView" | "satellite";
+export type PlaceInfoLoadedType = "place" | "streetView" | "satellite";
 
 export type PlaceInfoDetail = {
   types?: string[];
@@ -11,7 +11,7 @@ export interface PlaceInfo {
   photoUrl?: string;
   address?: string;
   coordinates: { lat?: number; lng?: number };
-  type: PlaceInfoType;
+  loadedType: PlaceInfoLoadedType;
   linkUrl: string;
   details?: PlaceInfoDetail;
 }
