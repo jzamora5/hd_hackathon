@@ -1,4 +1,5 @@
 import { GpxPoint } from "@/models/gpxPoint";
+import { RideStats } from "@/models/rideStats";
 
 const EARTH_RADIUS = 6371000; // Earth radius in meters
 
@@ -6,7 +7,7 @@ const toRadians = (degrees: number) => (degrees * Math.PI) / 180;
 
 export const calculateRideStats = (
   gpsData: { lat: number; lng: number; ele?: number; time?: string }[]
-) => {
+): RideStats | null => {
   if (gpsData.length < 2) return null; // Not enough data points
 
   let totalDistance = 0;
@@ -90,18 +91,11 @@ export const parseGPX = (gpxString: string) => {
   const parser = new DOMParser();
   const xml = parser.parseFromString(gpxString, "application/xml");
 
-  // Extract different GPX points
-  const trackpoints = extractPoints(xml, "trkpt", "trackpoint");
-  const waypoints = extractPoints(xml, "wpt", "waypoint");
-  const routepoints = extractPoints(xml, "rtept", "routepoint");
+  // Extract different GPX points in the order they appear
+  const waypoints = extractPoints(xml, "wpt", "waypoint"); // Waypoints first
+  const routepoints = extractPoints(xml, "rtept", "routepoint"); // Then routes
+  const trackpoints = extractPoints(xml, "trkpt", "trackpoint"); // Finally tracks
 
-  // Merge and sort by time (if available)
-  const allPoints = [...trackpoints, ...waypoints, ...routepoints].sort(
-    (a, b) =>
-      a.time && b.time
-        ? new Date(a.time).getTime() - new Date(b.time).getTime()
-        : 0
-  );
-
-  return allPoints;
+  // Preserve natural GPX order: waypoints → routepoints → trackpoints
+  return [...waypoints, ...routepoints, ...trackpoints];
 };

@@ -1,8 +1,9 @@
 import { GpxPoint } from "@/models/gpxPoint";
 import { PlaceInfo, PlaceInfoDetail } from "@/models/placeInfo";
-import { useEffect, useRef, useState } from "react";
+import { Dispatch, SetStateAction, useEffect, useRef, useState } from "react";
 import PlaceCard from "./PlaceCard";
 import { selectEvenlySpacedPoints } from "./utils";
+import Loader from "../Loader";
 
 export const UNKNOWN_LOCATION = "Unknown location";
 export const NUMBER_OF_POINTS = 6;
@@ -11,6 +12,8 @@ export const PHOTO_WIDTH = 800;
 
 interface PlaceCardsListProps {
   gpsData: GpxPoint[];
+  places: PlaceInfo[];
+  setPlaces: Dispatch<SetStateAction<PlaceInfo[]>>;
 }
 
 const checkIfHasStreetView = async (url: string) => {
@@ -50,18 +53,25 @@ const fetchPlaceDetails = (
   });
 };
 
-export default function PlaceCardsList({ gpsData }: PlaceCardsListProps) {
-  const [places, setPlaces] = useState<PlaceInfo[]>([]);
+export default function PlaceCardsList({
+  gpsData,
+  places,
+  setPlaces,
+}: PlaceCardsListProps) {
+  const [isLoading, setIsLoading] = useState(false);
   const loadingData = useRef(false);
 
   useEffect(() => {
     if (gpsData.length > 0 && !loadingData.current) {
       fetchAllPlaceInfo(gpsData);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [gpsData]);
 
   const fetchAllPlaceInfo = async (points: GpxPoint[]) => {
+    console.log("FETCH");
     loadingData.current = true;
+    setIsLoading(true);
     const service = new google.maps.places.PlacesService(
       document.createElement("div")
     );
@@ -107,7 +117,7 @@ export default function PlaceCardsList({ gpsData }: PlaceCardsListProps) {
             lat: place.geometry?.location?.lat?.(),
             lng: place.geometry?.location?.lng?.(),
           },
-          type: "place",
+          loadedType: "place",
           linkUrl: `https://www.google.com/maps/place/?q=place_id:${place.place_id}`,
           details,
         });
@@ -127,14 +137,22 @@ export default function PlaceCardsList({ gpsData }: PlaceCardsListProps) {
           address: "No place found",
           photoUrl: isStreetViewValid ? streetViewImage : satelliteImage,
           coordinates: { lat: point.lat, lng: point.lng },
-          type: isStreetViewValid ? "streetView" : "satellite",
+          loadedType: isStreetViewValid ? "streetView" : "satellite",
           linkUrl: isStreetViewValid ? streetViewLinkUrl : satelliteLinkUrl,
         });
       }
     }
     setPlaces([...placeList]);
+
     loadingData.current = false;
+    setIsLoading(false);
   };
+
+  if (isLoading) {
+    return <Loader />;
+  }
+
+  console.log("Places", places);
 
   return (
     <section>
