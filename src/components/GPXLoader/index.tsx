@@ -23,6 +23,8 @@ export default function GPXLoader() {
   const [places, setPlaces] = useState<PlaceInfo[]>([]);
   const [mapDisplayKey, setMapDisplayKey] = useState(0);
 
+  console.log("Ride Stats", rideStats);
+
   const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
@@ -91,7 +93,7 @@ export default function GPXLoader() {
           </LoadScript>
         )}
 
-        {gpsData.length > 0 && !!rideStats && !!places.length && (
+        {!!gpsData.length && !!rideStats && !!places.length && (
           <StoryDisplay places={places} rideStats={rideStats} />
         )}
       </section>
