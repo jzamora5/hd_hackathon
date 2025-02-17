@@ -19,14 +19,9 @@ const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
 
 export default function GPXLoader() {
   const [gpsData, setGpsData] = useState<GpxPoint[]>([]);
-
   const [rideStats, setRideStats] = useState<RideStats | null>(null);
-
   const [places, setPlaces] = useState<PlaceInfo[]>([]);
-
   const [mapDisplayKey, setMapDisplayKey] = useState(0);
-
-  console.log("Ride Stats", rideStats);
 
   const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
