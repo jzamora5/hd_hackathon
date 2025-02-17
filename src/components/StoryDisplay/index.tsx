@@ -1,6 +1,6 @@
 import { PlaceInfo } from "@/models/placeInfo";
 import { RideStats } from "@/models/rideStats";
-import { useCallback, useEffect, useState } from "react";
+import { memo, useEffect, useRef, useState } from "react";
 import Loader from "../Loader";
 
 export interface StoryDisplayProps {
@@ -8,44 +8,47 @@ export interface StoryDisplayProps {
   rideStats: RideStats;
 }
 
-export function StoryDisplay({ places, rideStats }: StoryDisplayProps) {
+function StoryDisplayBase({ places, rideStats }: StoryDisplayProps) {
   const [response, setResponse] = useState("");
   const [loading, setLoading] = useState(false);
-
-  const handleStoryGeneration = useCallback(async () => {
-    setLoading(true);
-    setResponse("");
-
-    try {
-      const res = await fetch("/api/story", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ places, rideStats }),
-      });
-
-      const data = await res.json();
-
-      if (res.ok) {
-        setResponse(data.reply);
-      } else {
-        setResponse(`Error: ${data.error}`);
-      }
-    } catch (error) {
-      setResponse(`Error: ${error}`);
-    } finally {
-      setLoading(false);
-    }
-  }, [places, rideStats]);
+  const loadingData = useRef(false);
 
   useEffect(() => {
-    console.log("Story Fetch!!!");
+    const handleStoryGeneration = async () => {
+      loadingData.current = true;
+      setLoading(true);
+      setResponse("");
 
-    if (places.length > 0 && rideStats) {
+      try {
+        const res = await fetch("/api/story", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ places, rideStats }),
+        });
+
+        const data = await res.json();
+
+        loadingData.current = false;
+
+        if (res.ok) {
+          setResponse(data.reply);
+        } else {
+          setResponse(`Error: ${data.error}`);
+        }
+      } catch (error) {
+        setResponse(`Error: ${error}`);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    if (places.length && rideStats && !loadingData.current) {
+      console.log("Story Fetch!!!");
       handleStoryGeneration();
     }
-  }, [places, rideStats, handleStoryGeneration]);
+  }, [places, rideStats]);
 
   return (
     <div className="border border-gray-500 w-[65%] mx-auto shadow-lg rounded">
@@ -59,3 +62,5 @@ export function StoryDisplay({ places, rideStats }: StoryDisplayProps) {
     </div>
   );
 }
+
+export const StoryDisplay = memo(StoryDisplayBase);

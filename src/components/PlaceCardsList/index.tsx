@@ -69,7 +69,7 @@ export default function PlaceCardsList({
   }, [gpsData]);
 
   const fetchAllPlaceInfo = async (points: GpxPoint[]) => {
-    console.log("FETCH");
+    console.log("Fetch Place Info!!!");
     loadingData.current = true;
     setIsLoading(true);
     const service = new google.maps.places.PlacesService(
