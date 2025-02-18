@@ -58,7 +58,12 @@ function StoryDisplayBase({ places, rideStats }: StoryDisplayProps) {
 
       <div className="grow mb-2">{loading && <Loader />}</div>
 
-      {response && <p className="p-4 text-justify">{response}</p>}
+      {response && (
+        <div
+          className="p-4 text-justify"
+          dangerouslySetInnerHTML={{ __html: response }}
+        ></div>
+      )}
     </div>
   );
 }
