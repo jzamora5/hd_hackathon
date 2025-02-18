@@ -9,7 +9,7 @@ const generatePromptMessages = (places: PlaceInfo[], riseStats: RideStats) => {
     {
       role: "system",
       content:
-        "You are a storyteller. And you will get information about the motorcycle road trip of a person based of the coordinates the rider crossed. Create a short ride story.",
+        "You are a storyteller. And you will get information about the motorcycle road trip of a person based of the coordinates the rider crossed. Create a short ride story. I want to the output to use html, emojis, and make the display attractive, this will go inside another component, so no need to add html, meta, title, body tags, or similar. Only return the html string, without '```html'",
     },
     {
       role: "user",
